@@ -1,0 +1,12 @@
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Domain\bin\Debug\net8.0\DiscountCodeGenerator.Domain.deps.json
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Domain\bin\Debug\net8.0\DiscountCodeGenerator.Domain.dll
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Domain\bin\Debug\net8.0\DiscountCodeGenerator.Domain.pdb
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Domain\obj\Debug\net8.0\DiscountCodeGenerator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Domain\obj\Debug\net8.0\DiscountCodeGenerator.Domain.AssemblyInfoInputs.cache
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Domain\obj\Debug\net8.0\DiscountCodeGenerator.Domain.AssemblyInfo.cs
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Domain\obj\Debug\net8.0\DiscountCodeGenerator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Domain\obj\Debug\net8.0\DiscountCodeGenerator.Domain.sourcelink.json
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Domain\obj\Debug\net8.0\DiscountCodeGenerator.Domain.dll
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Domain\obj\Debug\net8.0\refint\DiscountCodeGenerator.Domain.dll
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Domain\obj\Debug\net8.0\DiscountCodeGenerator.Domain.pdb
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Domain\obj\Debug\net8.0\ref\DiscountCodeGenerator.Domain.dll

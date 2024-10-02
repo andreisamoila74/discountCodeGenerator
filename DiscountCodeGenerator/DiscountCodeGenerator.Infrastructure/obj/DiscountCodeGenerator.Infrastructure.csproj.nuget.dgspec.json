@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andreisamoila\\source\\repos\\DiscountCodeGenerator\\DiscountCodeGenerator.Infrastructure\\DiscountCodeGenerator.Infrastructure.csproj": {}
+    "C:\\Users\\andreisamoila\\source\\repos\\discountCodeGenerator\\DiscountCodeGenerator\\DiscountCodeGenerator.Infrastructure\\DiscountCodeGenerator.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andreisamoila\\source\\repos\\DiscountCodeGenerator\\DiscountCodeGenerator.Domain\\DiscountCodeGenerator.Domain.csproj": {
+    "C:\\Users\\andreisamoila\\source\\repos\\discountCodeGenerator\\DiscountCodeGenerator\\DiscountCodeGenerator.Domain\\DiscountCodeGenerator.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andreisamoila\\source\\repos\\DiscountCodeGenerator\\DiscountCodeGenerator.Domain\\DiscountCodeGenerator.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\andreisamoila\\source\\repos\\discountCodeGenerator\\DiscountCodeGenerator\\DiscountCodeGenerator.Domain\\DiscountCodeGenerator.Domain.csproj",
         "projectName": "DiscountCodeGenerator.Domain",
-        "projectPath": "C:\\Users\\andreisamoila\\source\\repos\\DiscountCodeGenerator\\DiscountCodeGenerator.Domain\\DiscountCodeGenerator.Domain.csproj",
+        "projectPath": "C:\\Users\\andreisamoila\\source\\repos\\discountCodeGenerator\\DiscountCodeGenerator\\DiscountCodeGenerator.Domain\\DiscountCodeGenerator.Domain.csproj",
         "packagesPath": "C:\\Users\\andreisamoila\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andreisamoila\\source\\repos\\DiscountCodeGenerator\\DiscountCodeGenerator.Domain\\obj\\",
+        "outputPath": "C:\\Users\\andreisamoila\\source\\repos\\discountCodeGenerator\\DiscountCodeGenerator\\DiscountCodeGenerator.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\andreisamoila\\source\\repos\\DiscountCodeGenerator\\DiscountCodeGenerator.Infrastructure\\DiscountCodeGenerator.Infrastructure.csproj": {
+    "C:\\Users\\andreisamoila\\source\\repos\\discountCodeGenerator\\DiscountCodeGenerator\\DiscountCodeGenerator.Infrastructure\\DiscountCodeGenerator.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andreisamoila\\source\\repos\\DiscountCodeGenerator\\DiscountCodeGenerator.Infrastructure\\DiscountCodeGenerator.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\andreisamoila\\source\\repos\\discountCodeGenerator\\DiscountCodeGenerator\\DiscountCodeGenerator.Infrastructure\\DiscountCodeGenerator.Infrastructure.csproj",
         "projectName": "DiscountCodeGenerator.Infrastructure",
-        "projectPath": "C:\\Users\\andreisamoila\\source\\repos\\DiscountCodeGenerator\\DiscountCodeGenerator.Infrastructure\\DiscountCodeGenerator.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\andreisamoila\\source\\repos\\discountCodeGenerator\\DiscountCodeGenerator\\DiscountCodeGenerator.Infrastructure\\DiscountCodeGenerator.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\andreisamoila\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andreisamoila\\source\\repos\\DiscountCodeGenerator\\DiscountCodeGenerator.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\andreisamoila\\source\\repos\\discountCodeGenerator\\DiscountCodeGenerator\\DiscountCodeGenerator.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\andreisamoila\\source\\repos\\DiscountCodeGenerator\\DiscountCodeGenerator.Domain\\DiscountCodeGenerator.Domain.csproj": {
-                "projectPath": "C:\\Users\\andreisamoila\\source\\repos\\DiscountCodeGenerator\\DiscountCodeGenerator.Domain\\DiscountCodeGenerator.Domain.csproj"
+              "C:\\Users\\andreisamoila\\source\\repos\\discountCodeGenerator\\DiscountCodeGenerator\\DiscountCodeGenerator.Domain\\DiscountCodeGenerator.Domain.csproj": {
+                "projectPath": "C:\\Users\\andreisamoila\\source\\repos\\discountCodeGenerator\\DiscountCodeGenerator\\DiscountCodeGenerator.Domain\\DiscountCodeGenerator.Domain.csproj"
               }
             }
           }

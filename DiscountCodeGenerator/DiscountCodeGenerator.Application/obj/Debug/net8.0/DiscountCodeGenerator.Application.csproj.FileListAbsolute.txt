@@ -1,0 +1,16 @@
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Application\bin\Debug\net8.0\DiscountCodeGenerator.Application.deps.json
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Application\bin\Debug\net8.0\DiscountCodeGenerator.Application.dll
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Application\bin\Debug\net8.0\DiscountCodeGenerator.Application.pdb
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Application\bin\Debug\net8.0\DiscountCodeGenerator.Domain.dll
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Application\bin\Debug\net8.0\DiscountCodeGenerator.Domain.pdb
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Application\obj\Debug\net8.0\DiscountCodeGenerator.Application.csproj.AssemblyReference.cache
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Application\obj\Debug\net8.0\DiscountCodeGenerator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Application\obj\Debug\net8.0\DiscountCodeGenerator.Application.AssemblyInfoInputs.cache
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Application\obj\Debug\net8.0\DiscountCodeGenerator.Application.AssemblyInfo.cs
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Application\obj\Debug\net8.0\DiscountCodeGenerator.Application.csproj.CoreCompileInputs.cache
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Application\obj\Debug\net8.0\DiscountCodeGenerator.Application.sourcelink.json
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Application\obj\Debug\net8.0\Discount.3F534170.Up2Date
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Application\obj\Debug\net8.0\DiscountCodeGenerator.Application.dll
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Application\obj\Debug\net8.0\refint\DiscountCodeGenerator.Application.dll
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Application\obj\Debug\net8.0\DiscountCodeGenerator.Application.pdb
+C:\Users\andreisamoila\source\repos\discountCodeGenerator\DiscountCodeGenerator\DiscountCodeGenerator.Application\obj\Debug\net8.0\ref\DiscountCodeGenerator.Application.dll

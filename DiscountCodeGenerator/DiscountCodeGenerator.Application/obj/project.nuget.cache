@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xGPMxB09r+o=",
+  "dgSpecHash": "C/t/J8mzTo0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\andreisamoila\\source\\repos\\DiscountCodeGenerator\\DiscountCodeGenerator.Application\\DiscountCodeGenerator.Application.csproj",
+  "projectFilePath": "C:\\Users\\andreisamoila\\source\\repos\\discountCodeGenerator\\DiscountCodeGenerator\\DiscountCodeGenerator.Application\\DiscountCodeGenerator.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

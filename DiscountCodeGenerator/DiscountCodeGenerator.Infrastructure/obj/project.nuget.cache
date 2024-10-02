@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cLkFr/NCa24=",
+  "dgSpecHash": "E83+TZVBuf0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\andreisamoila\\source\\repos\\DiscountCodeGenerator\\DiscountCodeGenerator.Infrastructure\\DiscountCodeGenerator.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\andreisamoila\\source\\repos\\discountCodeGenerator\\DiscountCodeGenerator\\DiscountCodeGenerator.Infrastructure\\DiscountCodeGenerator.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andreisamoila\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\andreisamoila\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
