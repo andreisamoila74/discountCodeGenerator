@@ -9,17 +9,26 @@ namespace DiscountCodeGenerator.Server
 {
     class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
             var serviceProvider = new ServiceCollection()
-            .AddDbContext<DiscountCodeDbContext>(options =>
-                options.UseSqlite("Data Source=Data/discountcodes.db"))
-            .AddScoped<IDiscountCodeRepository, DiscountCodeRepository>()
-            .AddScoped<DiscountCodeService>()
-            .BuildServiceProvider();
+                .AddDbContext<DiscountCodeDbContext>(options =>
+                    options.UseSqlite("Data Source=../../../../DiscountCodeGenerator.Infrastructure/Data/db.sqlite"))
+                .AddScoped<IDiscountCodeRepository, DiscountCodeRepository>()
+                .AddScoped<DiscountCodeService>()
+                .BuildServiceProvider();
 
-            var tcpHandler = new TcpHandler(serviceProvider.GetService<DiscountCodeService>());
-            tcpHandler.StartListening();
+
+            var discountCodeService = serviceProvider.GetService<DiscountCodeService>();
+
+            if (discountCodeService == null)
+            {
+                Console.WriteLine("Failed to retrieve DiscountCodeService from the service provider.");
+                return;
+            }
+
+            var tcpHandler = new TcpHandler(discountCodeService);
+            await tcpHandler.StartListeningAsync();
         }
     }
 }

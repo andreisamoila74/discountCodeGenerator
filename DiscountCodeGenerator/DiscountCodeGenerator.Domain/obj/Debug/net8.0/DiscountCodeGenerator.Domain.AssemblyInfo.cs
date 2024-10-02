@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiscountCodeGenerator.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88d5f9941aa2ecc20046c761c12f11b1d0d47460")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f8fe0ad4504dd4a0cd24484b36a2e7e4fab2f46")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiscountCodeGenerator.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiscountCodeGenerator.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
