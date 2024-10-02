@@ -1,1 +1,30 @@
+# Ignore Visual Studio folder
 .vs/
+
+# Ignore build results across all projects
+**/bin/
+**/obj/
+
+# Ignore Entity Framework Migrations for all projects
+**/[Mm]igrations/
+
+# Ignore SQLite database files across all projects (optional)
+**/*.sqlite
+**/*.sqlite-shm
+**/*.sqlite-wal
+
+# Ignore user-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore Rider IDE folders (optional, if using JetBrains Rider)
+.idea/
+.idea/**/
+
+# Ignore macOS hidden files (optional, if using macOS)
+.DS_Store
+.AppleDouble
+.LSOverride
